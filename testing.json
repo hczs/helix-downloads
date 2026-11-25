@@ -1,11 +1,11 @@
 {
   "channel": "testing",
-  "version": "2026.11.25.5",
+  "version": "2026.11.26.1",
   "assets": {
     "linux": {
-      "url": "https://github.com/hczs/helix-downloads/releases/download/testing-v2026.11.25.5/Helix-testing-2026.11.25.5-linux-x64.run",
-      "bytes": 426201289,
-      "sha256": "e3caf9914a3212f7dd4ee4209e250d1c9fbdaf920e0a6882891acb2fe302cae5"
+      "url": "https://github.com/hczs/helix-downloads/releases/download/testing-v2026.11.26.1/Helix-testing-2026.11.26.1-linux-x64.run",
+      "bytes": 426167761,
+      "sha256": "50d386ccd61d1892c112a1795c51412886919f50da346fa68a3ef703de250a91"
     }
   }
 }
