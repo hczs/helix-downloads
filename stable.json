@@ -1,5 +1,11 @@
 {
   "channel": "stable",
-  "version": "0.0.0",
-  "assets": {}
+  "version": "2026.11.28.2",
+  "assets": {
+    "linux": {
+      "url": "https://github.com/hczs/helix-downloads/releases/download/stable-v2026.11.28.2/Helix-stable-2026.11.28.2-linux-x64.run",
+      "bytes": 438328825,
+      "sha256": "281439cc64448b0a7b71076d958144ca6e5bccc16e0a41bb26b4d773c761671a"
+    }
+  }
 }
